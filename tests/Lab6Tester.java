@@ -11,11 +11,17 @@ import org.junit.Test;
 import org.apache.commons.io.FileUtils;
 
 /*
-	Tests for Lab 1 of CSC172 Fall 2020
-	Methods tested: Lab1.isAnagram(String, String) and Lab1.isRotation(String, String)
+	Tests for Lab 6 of CSC172 Fall 2020
+	Methods tested: 
+		1. Sorting.defaultSort(int[]) 
+		2. Sorting.bubbleSort(int[])
+		3. Sorting.selectionSort(int[])
+		4. Sorting.insertionSort(int[])
+		5. Sorting.mergeSort(int[])
+		6. Sorting.quickSort(int[])
 
-	Made by: Pavlo Pastaryev
-	Email: ppastary@u.rochester.edu 
+	Made by: Hoang Le
+	Email: hle7@u.rochester.edu
 */
 public class Lab6Tester {
 	Sorting tester;
